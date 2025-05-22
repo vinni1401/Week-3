@@ -1,1 +1,86 @@
-Week 3 code
+# Week 3: Data Structures and Algorithms in Java 🚀
+
+Welcome to **Week 3** of our Java learning journey! This week, we delve into essential **Data Structures and Algorithms (DSA)** concepts using Java. Understanding these fundamentals is crucial for writing efficient and optimized code.
+
+---
+
+## 📚 Table of Contents
+
+- [Overview](#overview)
+- [Topics Covered](#topics-covered)
+  - [Day 1: Linked Lists](#day-1-linked-lists)
+  - [Day 2: Stack, Queue, and Hashing](#day-2-stack-queue-and-hashing)
+  - [Day 3: Sorting Algorithms](#day-3-sorting-algorithms)
+  - [Day 4: Searching Algorithms](#day-4-searching-algorithms)
+  - [Day 5: Binary Search](#day-5-binary-search)
+- [Prerequisites](#prerequisites)
+- [How to Use This Repository](#how-to-use-this-repository)
+- [Next Steps](#next-steps)
+
+---
+
+## 📝 Overview
+
+In Week 3, we focus on:
+
+- Implementing and understanding fundamental data structures like **Linked Lists**, **Stacks**, **Queues**, and **Hash Tables**.
+- Exploring core algorithms, including various **Sorting** and **Searching** techniques.
+- Analyzing the time and space complexity of different algorithms to write efficient code.
+
+---
+
+## 📘 Topics Covered
+
+### Day 1: Linked Lists
+- Understanding singly and doubly linked lists.
+- Implementing basic operations: insertion, deletion, traversal.
+- Comparing linked lists with arrays.
+
+### Day 2: Stack, Queue, and Hashing
+- Implementing stacks and queues using arrays and linked lists.
+- Understanding the concept of hashing and implementing hash tables.
+- Exploring real-world applications of these data structures.
+
+### Day 3: Sorting Algorithms
+- Implementing common sorting algorithms: Bubble Sort, Selection Sort, Insertion Sort.
+- Understanding the time and space complexity of each algorithm.
+- Comparing the efficiency of different sorting techniques.
+
+### Day 4: Searching Algorithms
+- Implementing linear and binary search algorithms.
+- Understanding the prerequisites and efficiency of each method.
+- Applying searching techniques to solve practical problems.
+
+### Day 5: Binary Search
+- Deep dive into the binary search algorithm.
+- Implementing binary search on sorted arrays.
+- Solving problems using binary search in different scenarios.
+
+---
+
+## ✅ Prerequisites
+
+Before diving into this week's content, ensure you have:
+
+- A computer with Windows, macOS, or Linux.
+- [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-downloads.html) installed.
+- A code editor or Integrated Development Environment (IDE) like [VS Code](https://code.visualstudio.com/), [IntelliJ IDEA](https://www.jetbrains.com/idea/), or [Eclipse](https://www.eclipse.org/).
+
+---
+
+## 📂 How to Use This Repository
+
+This repository is organized into folders corresponding to each day's topic. Inside each folder, you'll find:
+
+- **Code Examples**: Sample programs illustrating the concepts.
+- **Exercises**: Practice problems to reinforce learning.
+- **Notes**: Summaries and explanations of key points.
+
+Feel free to:
+
+- Clone the repository.
+- Run and modify the code examples.
+- Attempt the exercises and compare your solutions.
+
+---
+
